@@ -1,5 +1,5 @@
 # RICEPRICE
-# I used a Video by Tom Fisk from Pexels:
+# I used a Video by Tom Fisk from Pexels
 https://www.pexels.com/sv-se/video/2994204/
 
 # Set video as background
